@@ -251,3 +251,6 @@ consul_services: []
 
 # enable Consul Connect
 consul_connect_enabled: false
+
+# system limits
+consul_limits: {}
